@@ -1,0 +1,16 @@
+body{
+    background-color: #0a001a;
+    height: 100%;
+}
+html{
+    height: 100%;
+}
+.mor{
+    background-color: #0a001a;
+}
+a{
+    text-decoration: none;
+}
+.b:hover{
+    background-color: mediumpurple;
+}
